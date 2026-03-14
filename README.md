@@ -192,7 +192,7 @@ This project delivers a **fully functional real-time analytics pipeline** powere
 
 ---
 
-**Author**: *Jaya Chandra Kadiveti*  
-**GitHub**: [username](https://github.com/Jay61616)
-**Contact**: [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)
+**Author**: *Vignesh Derangula*  
+**GitHub**: [username]([https://github.com/Jay61616](https://github.com/VigneshDerangula))
+**Contact**: [datawithjay1@gmail.com](mailto:vigneshderangula@gmail.com)
 ---
